@@ -1,0 +1,10 @@
+{
+    "name": "artexe/paybysquareqrcodegenerator",
+    "type": "library",
+	"description": "Simple QR Code generator working with bysquare.com",
+	"autoload": {
+		"psr-4": {
+			"Artexe\\PayBySquareQRCodeGenerator\\": "src/"
+		}
+	}
+}
